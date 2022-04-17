@@ -1,4 +1,3 @@
 # Team-Razor-Crest
-Solution submission for Round-1 of the Tryst Autobot Challenge
-For main.ipynb, and model:
-https://drive.google.com/drive/folders/1qwncZEHlNyyM7pEcU9WE3txqbL9GdHF-?usp=sharing
+Solution submission for final Round of the Tryst Autobot Challenge
+https://drive.google.com/file/d/1WLL69nX922Tn-7HI_WCIvjSoGhqsdXLa/view?usp=sharing
